@@ -1,0 +1,16 @@
+div, input, label {
+    margin: 10px;
+}
+
+p {
+    margin: 5px;
+}
+
+#lists {
+    display: flex;
+}
+
+#increase, #decrease {
+    display: flex;
+    flex-direction: column;
+}
